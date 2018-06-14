@@ -1,0 +1,10 @@
+C:\Users\PM\Desktop\Angela tasks\Project\Visual Studio\DataBaseTest\DataBaseTest\bin\Debug\DataBaseTest.exe.config
+C:\Users\PM\Desktop\Angela tasks\Project\Visual Studio\DataBaseTest\DataBaseTest\bin\Debug\DataBaseTest.exe
+C:\Users\PM\Desktop\Angela tasks\Project\Visual Studio\DataBaseTest\DataBaseTest\bin\Debug\DataBaseTest.pdb
+C:\Users\PM\Desktop\Angela tasks\Project\Visual Studio\DataBaseTest\DataBaseTest\obj\Debug\DataBaseTest.csprojResolveAssemblyReference.cache
+C:\Users\PM\Desktop\Angela tasks\Project\Visual Studio\DataBaseTest\DataBaseTest\obj\Debug\DataBaseTest.Form1.resources
+C:\Users\PM\Desktop\Angela tasks\Project\Visual Studio\DataBaseTest\DataBaseTest\obj\Debug\DataBaseTest.Properties.Resources.resources
+C:\Users\PM\Desktop\Angela tasks\Project\Visual Studio\DataBaseTest\DataBaseTest\obj\Debug\DataBaseTest.csproj.GenerateResource.Cache
+C:\Users\PM\Desktop\Angela tasks\Project\Visual Studio\DataBaseTest\DataBaseTest\obj\Debug\DataBaseTest.exe
+C:\Users\PM\Desktop\Angela tasks\Project\Visual Studio\DataBaseTest\DataBaseTest\obj\Debug\DataBaseTest.pdb
+C:\Users\PM\Desktop\Angela tasks\Project\Visual Studio\DataBaseTest\DataBaseTest\bin\Debug\SalesData.accdb
